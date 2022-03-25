@@ -1,0 +1,30 @@
+.about{
+    width: 100%;
+    padding-top:30px;
+    padding-bottom: 40px;
+    display:flex;
+}
+
+.about h1{
+    width: 800px;
+    text-align: center;
+    margin-right: 50px;
+    margin-left:20px;
+    color: #333;
+}
+
+.about p{
+   margin-right: 50px;
+   color: #777;
+}
+
+.about button{
+    padding: 15px 50px;
+    outline: none;
+    color: white;
+    background-color:#333;
+    border-radius:3px;
+    border: none;
+    cursor: pointer;
+    
+}
