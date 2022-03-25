@@ -9,26 +9,28 @@
 .content{
     position: absolute;
     color: rgb(14, 13, 13);
-    top: 380px;
-    right:250px;
+    top: 410px;
+    right:90px;
 }
 
 .content h1{
+    position: relative;
     font-weight: bold;
     font-size:50px;
+    left: -90px;
 
 }
 
 .content h2{
     position: relative;
-    left: 10px;
+    left: -110px;
     font-weight: bold;
 }
 
 .content .btn{
     position: relative;
-    left: 100px;
-    top: 30px;
+    left: 20px;
+    top: 10px;
     cursor: pointer;
 }
 
